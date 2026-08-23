@@ -37,7 +37,7 @@ When proposing directions before generation, describe each in one compact line: 
 - Use at most one species-defining feature: for example, one large pouch beak, one pair of curled horns, or one broad visor.
 - Use at most two broad internal color regions corresponding to the two IP base colors. Keep the face to two eyes and, only when needed for the expression, one tiny mouth. Omit eyebrows, highlights, nostrils, texture, outlines, and decorative marks unless essential for recognition.
 - Remove repeated feathers, scales, fur tufts, armor plates, buttons, screws, numbers, labels, and other illustrative detail.
-- Make simplification, cuteness, and an endearing baby-like personality the decisive qualities. Favor a large head, compact proportions, soft cheeks, widely spaced simple eyes, and a calm friendly expression when appropriate to the subject.
+- Make simplification, cuteness, and an endearing baby-like personality the decisive qualities. Favor a large head, compact proportions, soft cheeks, widely spaced simple eyes, and a calm, friendly expression when appropriate to the subject.
 - Require a readable black silhouette and recognizability at `32 × 32`. If a feature disappears or becomes noise at that size, enlarge, merge, or remove it.
 
 ## Shape language and composition
