@@ -22,7 +22,7 @@ You can also browse the free [IP as Logo Skill website](https://ipaslogo.com), a
 - A balanced default six-image split: three lower-left and three lower-right
 - Extreme simplification, cute baby-like appeal, and removal of nonessential lines and details
 - One named solid background color filling the square, without image-mode language in the generation prompt
-- Image-only generation prompts that never reveal logo, brand-mark, app-icon, or icon-asset use
+- Image-only generation prompts that never reveal logo, brand mark, app icon, or icon asset use
 - One-pass batch generation that preserves and delivers every returned image without filtering or automatic retries
 
 ## Install
