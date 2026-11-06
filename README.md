@@ -4,11 +4,11 @@
 
 It follows the open Agent Skills format and is designed to work with any compatible AI agent, rather than being tied to a specific agent product.
 
-You can also browse the free [IP as Logo Skill website](https://ipaslogo.com), a searchable library backed by Cloudflare R2 and Supabase.
+You can also browse the free [IP as Logo Skill website](https://visualskills.dev/ip-as-logo), a searchable library backed by Cloudflare R2 and Supabase.
 
 ![IP as Logo showcase](assets/ip-as-logo-wall.webp)
 
-**Don't have Codex, Doubao, Coze, or Workbuddy?** [Visit our website](https://ipaslogo.com) to download ready-made logos for free. Every logo is free for commercial use.
+**Don't have Codex, Doubao, Coze, or Workbuddy?** [Visit our website](https://visualskills.dev/ip-as-logo) to download ready-made logos for free. Every logo is free for commercial use.
 
 ## What it guides
 
